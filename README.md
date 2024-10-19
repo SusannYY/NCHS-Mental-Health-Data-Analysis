@@ -2,6 +2,6 @@ The data is from https://data.cdc.gov/NCHS/Mental-Health-Care-in-the-Last-4-Week
 
 - Final deliverables:
 - Notebook (Python)
-- Tableau Dashboard
+- [Tableau Dashboard](https://public.tableau.com/app/profile/shuran.yang/viz/NCHSMentalHealthHouseholdPulseSurvey/Dashboard)
 - Dataset
 - Presentation deck
